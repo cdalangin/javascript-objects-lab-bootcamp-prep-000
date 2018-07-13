@@ -4,4 +4,5 @@ function updateObjectWithKeyAndValue(object, key, value) {
 }
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
   const recipes= {key:value}
+  return recipes
 }
