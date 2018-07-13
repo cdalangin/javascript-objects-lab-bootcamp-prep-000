@@ -21,3 +21,4 @@ function destructivelyDeleteFromObjectByKey(object, key) {
   delete newObject[key]
   return object
 }
+function 
